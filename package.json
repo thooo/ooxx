@@ -1,0 +1,20 @@
+{
+  "name": "ooxx",
+  "version": "1.0.0",
+  "description": "thooo base repos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thooo/ooxx.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thooo/ooxx/issues"
+  },
+  "homepage": "https://github.com/thooo/ooxx#readme"
+}
